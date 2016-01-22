@@ -1,0 +1,2 @@
+# primtux
+Distribution éducative française.
